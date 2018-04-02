@@ -1,4 +1,4 @@
-//Original Author: Dripto Biswas
+
 #include <iostream>
 using namespace std;
 
